@@ -1,5 +1,5 @@
 #sidebar {
-  background: firebrick;  
+  background: BlueViolet;  
   width: 15%;
   height: 100%;
   position: fixed;
@@ -10,8 +10,8 @@
   top: 0px;
 }
 header {
-  background: darkred;
-  color: aliceblue;
+  background: BlueViolet;
+  color: BlueViolet;
   width: 120%;
   height: 15%;
   position: fixed;
@@ -20,14 +20,14 @@ header {
   left: 0%;
 }
 #title {
-  color: alice-blue;
+  color: BlueViolet;
   position: fixed;
   top: 0%;
   left: 15%;
   font-size: 25px;
 }
 body {
-  background: aliceblue;
+  background: BlueViolet;
 }
 #logo {
 width: 10%;
@@ -65,7 +65,7 @@ height: auto;
   height: auto;
 }
 .desc {
-  color: aliceblue;
+  color: BlueViolet;
   position: fixed;
   max-width: 100%;
   height: auto;
